@@ -9,9 +9,13 @@ This project automates Excel file cleaning using Python. It's useful for freelan
 # Files Included:
 
 sample_excel_data.xlsx → Raw Excel file with 100+ rows
+
 excel_cleaner.py → Main Python script
+
 cleaned_output.xlsx → Auto-generated cleaned Excel file (after running script)
+
 README.md → This file
+
 # Requirements:
 Python 3.x
 pandas
